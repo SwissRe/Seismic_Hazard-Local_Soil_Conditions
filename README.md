@@ -32,7 +32,7 @@ Data Source | Link to Data Source | Vintage |
 Global Earthquake Model (GEM) Hazard Model Mosaic (Pagani et al., 2018)| https://hazard.openquake.org/gem/ | 2018 |
 United States Geological Survey (USGS) Shear Wave Velocity in the upper 30m| https://earthquake.usgs.gov/data/vs30/ | 2020 |
 
-# User agreement
+# User Agreement
 
 <p align="justify">
 The " Earthquake – Local Soil Conditions " is a layer that shows expected ground motion level at actual local site conditions. It has been calculated based on the GEM2018 bedrock hazard (provided by GEM, available from Global Hazard Map - Global Earthquake Model (https://www.globalquakemodel.org/product/global-hazard-map) under CC BY-SA license and VS30 from slope (provided by USGS, available from https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits under Public Domain). Earthquake – Local Soil Conditions is provided by Swiss Re and licensed under CC BY-SA 4.0  license (https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
