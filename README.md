@@ -35,7 +35,7 @@ United States Geological Survey (USGS) Shear Wave Velocity in the upper 30m| htt
 # User Agreement/Legal Notice
 
 <p align="justify">
-The " Earthquake – Local Soil Conditions " is a layer that shows expected ground motion level at actual local site conditions. It has been calculated based on the GEM2018 bedrock hazard (provided by GEM, available from Global Hazard Map - Global Earthquake Model (https://www.globalquakemodel.org/product/global-hazard-map) under CC BY-SA license and VS30 from slope (provided by USGS, available from https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits under Public Domain). Earthquake – Local Soil Conditions is provided by Swiss Re and licensed under CC BY-SA 4.0  license (https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
+The " Earthquake – Local Soil Conditions " is a layer that shows expected ground motion level at actual local site conditions. It has been calculated based on the GEM2018 bedrock hazard (provided by GEM, available from Global Hazard Map - Global Earthquake Model (https://www.globalquakemodel.org/product/global-hazard-map) under CC BY-SA license and VS30 from slope (provided by USGS, available from https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits under Public Domain). Earthquake – Local Soil Conditions is provided by Swiss Re and licensed under CC BY-NC-SA 4.0  license (https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 </p>
 
 # Release Date
